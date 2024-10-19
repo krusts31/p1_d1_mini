@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/vim,c,c++,zsh,git,linux,windows,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,c,c++,zsh,git,linux,windows,visualstudiocode
 
+sdkconfig
+sdkconfig.old
 ### C ###
 # Prerequisites
 *.d
